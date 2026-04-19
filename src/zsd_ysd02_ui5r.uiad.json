@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Sales Order Pending"
+  },
+  "ui5AppDetails": {
+    "appId": "zysd02"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_EFB6F0EBF03EF569E9FC4AEE4C6D1C8D22CF2224_TM",
+    "semanticObject": "ysd02",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_EFB6F0EBF03EF569E9FC4AEE4C6D1C8D22CF2224_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Sales Order Pending",
+        "icon": "sap-icon://sales-order-item"
+      }
+    }
+  ]
+}

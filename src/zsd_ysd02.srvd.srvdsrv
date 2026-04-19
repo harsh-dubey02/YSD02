@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition of YSD02'
+define service ZSD_YSD02 {
+  expose ZC_YSD02;
+}
